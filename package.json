@@ -24,14 +24,28 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
-    "@types/node": "22.10.7",
-    "@types/react": "19.0.7",
-    "@types/react-dom": "19.0.3"
+    "@types/node": "^22.10.7",
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
       "bcrypt",
       "sharp"
     ]
-  }
+  },
+  "name": "nextjs-dashboard",
+  "version": "1.0.0",
+  "description": "This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnino003-xamk/nextjs-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnino003-xamk/nextjs-dashboard/issues"
+  },
+  "homepage": "https://github.com/fnino003-xamk/nextjs-dashboard#readme"
 }
